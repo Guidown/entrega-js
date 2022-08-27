@@ -1,9 +1,9 @@
-import { Chart } from "chart.js";
-const ChartGrafico = document.getElementById("Chart");
+import Chart from "chart.js";
+const ctx = document.getElementById("myChart").getContext("2d");
 const Celulares = ["Samsung", "Huawei", "Iphone"];
 const precio = [132761, 112634, 249576];
 
-const GraficoChart = new Chart(grafico, {
+const myChart = new Chart(ctx, {
   type: "bar",
   data: {
     labels: Celulares,
