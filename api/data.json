@@ -1,0 +1,82 @@
+[
+  {
+    "Samsung": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy S10",
+        "img": "./Imgs/Samsung-S10.png",
+        "price": 66800
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S20",
+        "img": "./Imgs/Samsung-S20.png",
+        "price": 120000
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy S21",
+        "img": "./Imgs/Samsung-S21.png",
+        "price": 146200
+      },
+      {
+        "id": 4,
+        "name": "Samsung Galaxy S22 Ultra",
+        "img": "./Imgs/Samsung-Galaxy-S22-Ultra.png",
+        "price": 198046
+      }
+    ],
+    "iPhone": [
+      {
+        "id": 1,
+        "name": "Iphone 13",
+        "img": "./Imgs/iPhone-13.png",
+        "price": 190970
+      },
+      {
+        "id": 2,
+        "name": "Iphone 13 Mini",
+        "img": "./Imgs/iphone-13-mini.png",
+        "price": 243923
+      },
+      {
+        "id": 3,
+        "name": "Iphone 13 Pro",
+        "img": "./Imgs/iphone-13-Pro.png",
+        "price": 268250
+      },
+      {
+        "id": 4,
+        "name": "Iphone 13 Pro Max",
+        "img": "./Imgs/iphone-13-pro-max.png",
+        "price": 295164
+      }
+    ],
+    "Huawei": [
+      {
+        "id": 1,
+        "name": "Huawei P30 Lite",
+        "img": "./Imgs/huawei-p30-lite.png",
+        "price": 93606
+      },
+      {
+        "id": 2,
+        "name": "Huawei P40 Pro",
+        "img": "./Imgs/huawei-p40-pro.png",
+        "price": 108606
+      },
+      {
+        "id": 3,
+        "name": "Huawei Mate 30 Pro",
+        "img": "./Imgs/huawei-mate30-pro.png",
+        "price": 146024
+      },
+      {
+        "id": 4,
+        "name": "Huawei Mate 30",
+        "img": "./Imgs/huawei-mate-30.png",
+        "price": 102300
+      }
+    ]
+  }
+]
